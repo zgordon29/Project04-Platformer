@@ -1,17 +1,22 @@
-# Exercise-04c-Enemies
+# Project04-Platformer
+Context:Project for Indiana University Game Design BS
+Course: Game Technology
+Date: 3/9/2024
+
+2D platformer with a few levels and enemies. Additionally you the game tracks how many coins you pick up over the course of your run.
 
 ## Implementation
+Start and End Menu
+Respawn
+3 Levels
+3 Enemies
+Coin Tracker at the End Menu
+Sound Effects
+Wall-Jump
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Zachary Gordon
